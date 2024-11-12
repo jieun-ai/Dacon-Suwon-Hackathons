@@ -1,12 +1,13 @@
 # 와인 품질 분류 AI 경진대회
 
-<img width="695" alt="image" src="https://github.com/user-attachments/assets/7e340d44-d688-4169-864a-a5f08dc112d0">
+<img width="690" alt="image" src="https://github.com/user-attachments/assets/76bdec73-fa47-4f70-b1d6-a12f86d29945">
 
 ## 대회 링크
 - [대회 페이지 바로가기](https://dacon.io/competitions/open/235941/overview/description)
 - **대회 기간**: 2022년 8월 1일 - 8월 5일
 - **최종 순위**: 2위 (참가자 수 26명)
-<img width="693" alt="image" src="https://github.com/user-attachments/assets/5a62600d-2ca1-4a12-9d28-c877184466f3">
+<img width="691" alt="image" src="https://github.com/user-attachments/assets/c7a4d1ec-cbff-45a6-9208-21b9a48fc377">
+
 
 ## 1. 대회 배경
 와인의 품질은 여러 화학적 성분에 따라 결정되며, 소비자 만족도에도 큰 영향을 미칩니다. 하지만 모든 와인을 전문가가 직접 평가하는 것은 시간과 비용이 많이 들기 때문에, 이를 효율적으로 해결할 수 있는 AI 모델의 필요성이 대두되었습니다. 따라서 **와인의 화학적 성분 데이터를 기반으로 와인 품질을 분류하는 AI 경진대회**가 개최되었습니다.
