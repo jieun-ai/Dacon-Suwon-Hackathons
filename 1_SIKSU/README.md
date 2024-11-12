@@ -1,12 +1,13 @@
 # 구내식당 식수 인원 예측 AI 경진대회
 
-<img width="700" alt="image" src="https://github.com/user-attachments/assets/9c76617d-9cd6-49ef-8af8-52d544fe7e2e">
+<img width="698" alt="image" src="https://github.com/user-attachments/assets/c09c5f5d-2095-4b25-8b53-09d90c17d578">
 
 ## 대회 링크
-- [대회 페이지 바로가기](https://dacon.io/competitions/official/)
+- [대회 페이지 바로가기](https://dacon.io/competitions/open/235934/overview/description)
 - **대회 기간**: 2022년 6월 29일 - 7월 12일
 - **최종 순위**: 3위 (참가자 수 46명)
-<img width="696" alt="image" src="https://github.com/user-attachments/assets/b1b9d15d-53eb-4f09-9a4f-c6860a9d637b">
+<img width="692" alt="image" src="https://github.com/user-attachments/assets/83c75624-c38e-4e67-85f6-be46a55e3d82">
+
 
 
 ## 1. 대회 배경
