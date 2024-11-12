@@ -1,12 +1,12 @@
 # 버스 운행시간 예측 AI 경진대회
 
-<img width="703" alt="image" src="https://github.com/user-attachments/assets/fc5397d1-bc02-491f-acd4-58c3a11f59e5">
+<img width="698" alt="image" src="https://github.com/user-attachments/assets/8df59d77-ebea-490c-a112-4714e9a55057">
 
 ## 대회 링크
 - [대회 페이지 바로가기](https://dacon.io/competitions/open/235940/overview/description)
 - **대회 기간**: 2022년 7월 25일 - 7월 29일
 - **최종 순위**: 3위 (참가자 수 29명)
-<img width="699" alt="image" src="https://github.com/user-attachments/assets/8d15e7bb-8f80-4f66-a391-3e2dcb048826">
+<img width="699" alt="image" src="https://github.com/user-attachments/assets/5405d701-10e0-45a0-b644-6780f19c0841">
 
 ## 1. 대회 배경
 제주도는 최근 주민 증가와 관광객 유입으로 인해 교통체증이 심화되었습니다. 제주도 일부 지역의 교통체증은 서울보다도 심각한 상황입니다. 이러한 문제를 해결하고자 **제주테크노파크**는 제주도 내 버스 운행시간을 예측하는 AI 경진대회를 개최했습니다. 이를 통해 교통 혼잡을 줄이고, 버스 운행의 효율성을 높이고자 합니다.
