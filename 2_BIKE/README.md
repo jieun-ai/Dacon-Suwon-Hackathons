@@ -1,12 +1,12 @@
 # 따릉이 대여량 예측 AI 경진대회
 
-<img width="699" alt="image" src="https://github.com/user-attachments/assets/aa270eda-336e-432a-9aa5-656de2c92f1a">
+<img width="699" alt="image" src="https://github.com/user-attachments/assets/1c82c1aa-f11e-4ee6-b389-f0a37849fb14">
 
 ## 대회 링크
 - [대회 페이지 바로가기](https://dacon.io/competitions/open/235939/overview/description)
 - **대회 기간**: 2022년 7월 13일 - 7월 19일
 - **최종 순위**: 3위 (참가자 수 40명)
-<img width="695" alt="image" src="https://github.com/user-attachments/assets/4d1ebabd-2838-4153-b08b-0cfc6c55307c">
+<img width="695" alt="image" src="https://github.com/user-attachments/assets/152432f9-66ae-45d0-922e-08beb945b72e">
 
 ## 1. 대회 배경
 서울시의 공유 자전거 서비스인 “따릉이”의 대여량과 날씨 데이터를 활용해 **데이터 분석과 예측 모델링**에 입문할 수 있는 해커톤입니다. 참가자들은 제공된 기본 코드와 탐색적 데이터 분석(EDA) 예시를 통해 데이터 분석의 기초를 익히고, 분석 방법을 공유하며 실력을 겨뤄볼 수 있습니다. 이를 통해 데이터 분석 대회의 **즐거움과 유용성을 느끼고, 데이터 기반의 의사결정을 경험**할 수 있습니다.
