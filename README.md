@@ -3,7 +3,7 @@
 2022년 수원대학교와 데이콘이 함께 진행한 데이터 캠프 해커톤 프로젝트 모음입니다.   
 총 4회의 해커톤을 통해 AI 및 데이터 분석 실무 역량을 강화하고 우수한 성과를 달성했습니다.
 
-<img src="https://github.com/user-attachments/assets/d2653373-5930-4aeb-bb3b-2833daa796a6" alt="수원대포스터" width="70%">
+<img src="https://github.com/user-attachments/assets/7940cb28-d472-45cd-b8af-2f9c0015b9b6" alt="수원대포스터" width="70%">
 
 
 ## 1. 수원대 데이터 캠프 개요
@@ -31,8 +31,8 @@
 
 - **평가 기준**: 교육 참여도(출석, 과제 제출, 코드 공유) 및 대회 성적을 기준으로 평가
 
-- **수상 인증서**: 
-  - ![수원대업적인증서_01](https://github.com/user-attachments/assets/9d7f7579-3b2c-4917-aafc-c558c402aea7)
+- **수상 인증서**
+  - ![수원대업적인증서_01](https://github.com/user-attachments/assets/08e0f4bc-fc32-462d-9110-ee5d6b666ef3)
 
 각 해커톤의 자세한 설명과 코드는 해당 링크를 통해 확인할 수 있습니다.
 
